@@ -78,7 +78,7 @@ export default {
 
   purgeCSS: {
     whitelist: [
-      'pankaj'
+      'lg-icon','lg-container','lg-next','lg-prev','disabled','lg-single-item','lg-outer','lg-right-end','lg-object','lg-left-end','lg-toolbar','lg-media-overlap','lg-icon-18','lg-close','lg-maximize','lg-download','lg-sub-html','lg-item','lg-error-msg','lg-counter','lg-closing','lg-from-hash','lg-start-zoom','lg-zoomable','lg-img-wrap','lg-video-cont','lg-complete','lg-group','lg-show','lg-on','lg-pager-outer','lg-hide-sub-html','lg-show-in','lg-hide-items','lg-zoom-from-image','lg-visible','lg-css3','lg-start-end-progress','lg-prev-slide','lg-next-slide','lg-current','lg-dragging','lg-grab','lg-grabbing','lg-content','lg-inner','gif','lg-css','lg-empty-html','lg-hide-download','lg-first-slide','lg-dummy-img','lg-components-open','lg-zoomed','lg-components','lg-backdrop','in','lg-no-trans','lg-use-css3','lg-fade','lg-start-progress','lg-slide','lg-dragging-vertical','lg-inline','lg-actions','lg-prev','lg-icon','lg-next'
     ]
   },
 
