@@ -73,8 +73,13 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
-    'nuxt-purgecss'
+    'nuxt-purgecss',
+    '@nuxtjs/google-analytics'
   ],
+
+  googleAnalytics: {
+    id: 'UA-81265402-1'
+  },
 
   purgeCSS: {
     whitelist: [
@@ -93,6 +98,9 @@ export default {
     manifest: {
       lang: 'en',
     },
+    icon: {
+      fileName: 'common/favicon.png',
+ },
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

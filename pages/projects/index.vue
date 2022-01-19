@@ -59,7 +59,10 @@
                 />
                 <div class="card-body">
                   <h5 class="card-title">{{ item.client }}</h5>
-                  <NuxtLink :to="/projects/ + item.id" class="link">
+                  <NuxtLink
+                    :to="/projects/ + getSlugify(item.client) + '/' + item.id"
+                    class="link"
+                  >
                     Quick Look
                   </NuxtLink>
                 </div>
@@ -108,6 +111,13 @@ export default {
         }
         return filtered
       })
+    },
+  },
+  methods: {
+    getSlugify(link) {
+      if (typeof link !== 'undefined') {
+        return link.toLowerCase().split(' ').join('-')
+      }
     },
   },
 }

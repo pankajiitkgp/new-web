@@ -56,5 +56,10 @@ export default (meta) => {
       name: 'twitter:image',
       content: (meta && meta.mainImage) || global.mainImage,
     },
+    {
+      hid: 'description',
+      name: 'google-site-verification',
+      content: (meta && meta.siteVerfication) || global.siteVerfication,
+    },
   ]
 }

@@ -24,7 +24,7 @@
       >
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <NuxtLink to="/" class="nav-link">Home</NuxtLink>
+            <NuxtLink to="/" exact class="nav-link">Home</NuxtLink>
           </li>
           <li class="nav-item">
             <NuxtLink to="/about" class="nav-link">About Us</NuxtLink>
@@ -153,7 +153,7 @@ body {
 .typewrite {
   color: #378208;
 }
-.navbar .navbar-nav .nuxt-link-exact-active {
+.navbar .navbar-nav .nuxt-link-active {
   color: #378208;
   border-bottom: 2px solid;
 }
