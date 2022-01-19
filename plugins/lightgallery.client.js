@@ -1,8 +1,6 @@
 import Vue from 'vue'
 import lightgallery from 'lightgallery.js'
-
-import '@/assets/css/lightgallery.css'
-
+import 'lightgallery.js/dist/css/lightgallery.min.css'
 // import 'lg-video.js'
 
 Vue.use(lightgallery)

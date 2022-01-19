@@ -37,7 +37,7 @@ export default {
     link: [{
         rel: 'icon',
         type: 'image/x-icon',
-        href: '/favicon.png'
+        href: 'common/favicon.png'
       },
       {
         rel: 'preconnect',
@@ -75,6 +75,12 @@ export default {
     '@nuxtjs/eslint-module',
     'nuxt-purgecss'
   ],
+
+  purgeCSS: {
+    whitelist: [
+      'pankaj'
+    ]
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [

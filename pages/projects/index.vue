@@ -77,7 +77,7 @@
 import FooterBar from '~/components/global/FooterBar.vue'
 import TitleBar from '~/components/global/TitleBar.vue'
 
-import imageDataList from '~/static/imageData.json'
+import imageDataList from '~/static/projects/imageData.json'
 
 export default {
   name: 'AboutPage',
