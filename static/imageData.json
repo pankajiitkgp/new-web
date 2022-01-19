@@ -1,0 +1,664 @@
+{
+  "imagesList": [
+    {
+      "id": 0,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g1",
+      "client": "Abhishek Dhanuka",
+      "caption": "Abhishek Dhanuka",
+      "image_num": 13,
+      "featured": 0
+    },
+    {
+      "id": 1,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g2",
+      "client": "Amar Agarwal",
+      "caption": "Amar Agarwal",
+      "image_num": 6,
+      "featured": 0
+    },
+    {
+      "id": 2,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g3",
+      "client": "Dinesh Lath",
+      "caption": "Dinesh Lath",
+      "image_num": 8,
+      "featured": 0
+    },
+    {
+      "id": 3,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g4",
+      "client": "Devendra Patra",
+      "caption": "Devendra Patra",
+      "image_num": 15,
+      "featured": 0
+    },
+    {
+      "id": 4,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g5",
+      "client": "Matania",
+      "caption": "Matania",
+      "image_num": 12,
+      "featured": 0
+    },
+    {
+      "id": 5,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g6",
+      "client": "Rajesh Agarwal",
+      "caption": "Rajesh Agarwal",
+      "image_num": 8,
+      "featured": 0
+    },
+    {
+      "id": 6,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g7",
+      "client": "Rajib Kumar",
+      "caption": "Rajib Kumar",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 7,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g8",
+      "client": "Rashmi Sahu",
+      "caption": "Rashmi Sahu",
+      "image_num": 7,
+      "featured": 0
+    },
+    {
+      "id": 8,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g9",
+      "client": "Rinku Agarwal",
+      "caption": "Rinku Agarwal",
+      "image_num": 6,
+      "featured": 0
+    },
+    {
+      "id": 9,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g10",
+      "client": "Sudarshan Villa",
+      "caption": "Sudarshan Villa",
+      "image_num": 10,
+      "featured": 0
+    },
+    {
+      "id": 10,
+      "category": "interior",
+      "subcategory": "res",
+      "folder": "g11",
+      "client": "Vaibhav Tuli",
+      "caption": "Vaibhav Tuli",
+      "image_num": 8,
+      "featured": 0
+    },
+    {
+      "id": 11,
+      "category": "interior",
+      "subcategory": "com",
+      "folder": "g1",
+      "client": "Akura Office",
+      "caption": "Akura Office",
+      "image_num": 4,
+      "featured": 0
+    },
+    {
+      "id": 12,
+      "category": "interior",
+      "subcategory": "com",
+      "folder": "g2",
+      "client": "Jivandeep Medical",
+      "caption": "Jivandeep Medical",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 13,
+      "category": "interior",
+      "subcategory": "com",
+      "folder": "g3",
+      "client": "Royal Enfield",
+      "caption": "Royal Enfield",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 14,
+      "category": "interior",
+      "subcategory": "com",
+      "folder": "g4",
+      "client": "Satish Mittal",
+      "caption": "Satish Mittal",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 15,
+      "category": "interior",
+      "subcategory": "com",
+      "folder": "g5",
+      "client": "Shree Ji Rice Mills",
+      "caption": "Shree Ji Rice Mills",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 16,
+      "category": "interior",
+      "subcategory": "com",
+      "folder": "g6",
+      "client": "Saurav Textiles",
+      "caption": "Saurav Textiles",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 17,
+      "category": "interior",
+      "subcategory": "edu",
+      "folder": "g1",
+      "client": "Vikash Primary School",
+      "caption": "Vikash Primary School",
+      "image_num": 14,
+      "featured": 0
+    },
+    {
+      "id": 18,
+      "category": "interior",
+      "subcategory": "edu",
+      "folder": "g2",
+      "client": "Vikash Junior College",
+      "caption": "Vikash Junior College",
+      "image_num": 4,
+      "featured": 0
+    },
+    {
+      "id": 19,
+      "category": "interior",
+      "subcategory": "hos",
+      "folder": "g1",
+      "client": "Hotel Silver Moon",
+      "caption": "Bar & Pool",
+      "image_num": 4,
+      "featured": 0
+    },
+    {
+      "id": 20,
+      "category": "interior",
+      "subcategory": "hos",
+      "folder": "g2",
+      "client": "Hotel Triveni",
+      "caption": "Bed Room",
+      "image_num": 6,
+      "featured": 0
+    },
+    {
+      "id": 21,
+      "category": "architectural",
+      "subcategory": "com",
+      "folder": "g1",
+      "client": "BK Tower",
+      "caption": "Elevation",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 22,
+      "category": "architectural",
+      "subcategory": "com",
+      "folder": "g2",
+      "client": "Samleswari Complex",
+      "caption": "Elevation",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 23,
+      "category": "architectural",
+      "subcategory": "com",
+      "folder": "g3",
+      "client": "Sangram Agarwal",
+      "caption": "Elevation",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 24,
+      "category": "architectural",
+      "subcategory": "com",
+      "folder": "g4",
+      "client": "Urmila Arcade",
+      "caption": "Elevation",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 25,
+      "category": "architectural",
+      "subcategory": "com",
+      "folder": "g5",
+      "client": "Vikas Agarwal",
+      "caption": "Elevation",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 26,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g1",
+      "client": "Abhishek Dhanuka",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 27,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g2",
+      "client": "ACC",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 28,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g3",
+      "client": "Ajay Agarwal",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 29,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g4",
+      "client": "Akrura Haveli",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 30,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g5",
+      "client": "Ankit Rekhani",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 31,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g6",
+      "client": "Anup Agarwal",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 32,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g7",
+      "client": "Arvind Das",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 33,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g8",
+      "client": "Babu Gupta",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 34,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g9",
+      "client": "BNT Associates",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 35,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g10",
+      "client": "Govind Sharma",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 36,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g11",
+      "client": "Kapil Agarwal",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 37,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g12",
+      "client": "Kukreja",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 38,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g13",
+      "client": "Matania",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 39,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g14",
+      "client": "Rajesh Sahu",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 40,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g15",
+      "client": "Ramesh Golani",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 41,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g16",
+      "client": "Ravi Mittal",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 42,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g17",
+      "client": "Rocky Agarwal",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 43,
+      "category": "architectural",
+      "subcategory": "res",
+      "folder": "g18",
+      "client": "Sarita Sahu",
+      "caption": "Residence",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 44,
+      "category": "architectural",
+      "subcategory": "edu",
+      "folder": "g1",
+      "client": "Prerana Nursery School",
+      "caption": "Nursery School",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 45,
+      "category": "architectural",
+      "subcategory": "edu",
+      "folder": "g2",
+      "client": "Vikash International School",
+      "caption": "School View",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 46,
+      "category": "architectural",
+      "subcategory": "edu",
+      "folder": "g3",
+      "client": "Vikash Primary School",
+      "caption": "School View",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 47,
+      "category": "architectural",
+      "subcategory": "edu",
+      "folder": "g4",
+      "client": "Vikash School",
+      "caption": "School View",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 48,
+      "category": "architectural",
+      "subcategory": "hos",
+      "folder": "g1",
+      "client": "Hotel Royal Palace",
+      "caption": "View",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 49,
+      "category": "architectural",
+      "subcategory": "hos",
+      "folder": "g2",
+      "client": "Hotel Silver Moon",
+      "caption": "View",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 50,
+      "category": "architectural",
+      "subcategory": "hos",
+      "folder": "g3",
+      "client": "Hotel Vinayak",
+      "caption": "View",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 51,
+      "category": "architectural",
+      "subcategory": "hos",
+      "folder": "g4",
+      "client": "Rani Sati Seva Trust",
+      "caption": "View",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 52,
+      "category": "architectural",
+      "subcategory": "hos",
+      "folder": "g5",
+      "client": "Vikash Guest House",
+      "caption": "View",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 53,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g1",
+      "client": "Alok Vatika",
+      "caption": "Alok Vatika",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 54,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g2",
+      "client": "Hari Omm",
+      "caption": "Hari Omm",
+      "image_num": 3,
+      "featured": 0
+    },
+    {
+      "id": 55,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g3",
+      "client": "Lath Life Style",
+      "caption": "Lath Life Style",
+      "image_num": 8,
+      "featured": 0
+    },
+    {
+      "id": 56,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g4",
+      "client": "Naarayan Residency",
+      "caption": "Naarayan Residency",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 57,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g5",
+      "client": "Padampur Housing",
+      "caption": "Padampur Housing",
+      "image_num": 3,
+      "featured": 0
+    },
+    {
+      "id": 58,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g6",
+      "client": "Sahu Tower",
+      "caption": "Sahu Tower",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 59,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g7",
+      "client": "Shree Umesh Vatika",
+      "caption": "Shree Umesh Vatika",
+      "image_num": 5,
+      "featured": 0
+    },
+    {
+      "id": 60,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g8",
+      "client": "SSIPL Bhimraj",
+      "caption": "SSIPL Bhimraj",
+      "image_num": 1,
+      "featured": 0
+    },
+    {
+      "id": 61,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g9",
+      "client": "SSIPL Laxmi Narayan",
+      "caption": "Street View",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 62,
+      "category": "architectural",
+      "subcategory": "hou",
+      "folder": "g10",
+      "client": "SSIPL Shyam Vatika",
+      "caption": "SSIPL Shyam Vatika",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 63,
+      "category": "diverse",
+      "subcategory": "lan",
+      "folder": "g1",
+      "client": "Kamal Park",
+      "caption": "Kamal Park",
+      "image_num": 5,
+      "featured": 0
+    },
+    {
+      "id": 64,
+      "category": "diverse",
+      "subcategory": "lan",
+      "folder": "g2",
+      "client": "Vikash Deras Campus",
+      "caption": "Informal Seating",
+      "image_num": 2,
+      "featured": 0
+    },
+    {
+      "id": 65,
+      "category": "diverse",
+      "subcategory": "lan",
+      "folder": "g3",
+      "client": "Vikash Cricket Pavilion",
+      "caption": "Cricket Pavillion",
+      "image_num": 1,
+      "featured": 0
+    }
+  ]
+}
