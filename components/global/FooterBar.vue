@@ -13,7 +13,7 @@
                       >mail2novus@gmail.com</a
                     >
                   </li>
-                  <li><a href="tel:+291912-3456-073">(+91) 87635 22530</a></li>
+                  <li><a href="tel:+9187635-22530">(+91) 87635 22530</a></li>
                 </ul>
               </div>
             </div>

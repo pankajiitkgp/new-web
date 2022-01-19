@@ -7,6 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint:prettier": "prettier --check .",
     "lint": "npm run lint:js && npm run lint:prettier",
@@ -25,7 +26,6 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.3",
-    "@nuxt/image": "^0.6.0",
     "@nuxtjs/eslint-config": "^8.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
     "eslint": "^8.4.1",
@@ -34,6 +34,7 @@
     "eslint-plugin-vue": "^8.2.0",
     "nuxt-purgecss": "^1.0.0",
     "prettier": "^2.5.1",
+    "push-dir": "^0.4.1",
     "sass": "^1.47.0",
     "sass-loader": "^10.2.0"
   }

@@ -1,11 +1,27 @@
+import global from './utils/global'
+import getSiteMeta from './utils/getSiteMeta'
+const meta = getSiteMeta()
+
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
+  target: 'static',
+  router: {
+    base: '/new-web/'
+  },
+  loading: {
+    color: '#378208',
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'new-web',
-    meta: [{
+    title: global.siteTitle,
+    htmlAttrs: {
+      lang: 'en',
+    },
+    meta: [
+      ...meta,
+      {
         charset: 'utf-8'
       },
       {
@@ -15,11 +31,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: ''
-      },
-      {
-        name: 'format-detection',
-        content: 'telephone=no'
+        content: global.siteDesc || ''
       },
     ],
     link: [{
@@ -62,8 +74,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
-    'nuxt-purgecss',
-    '@nuxt/image'
+    'nuxt-purgecss'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

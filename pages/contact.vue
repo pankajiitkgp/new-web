@@ -18,7 +18,9 @@
                 </div>
                 <div class="features-box-content">
                   <h3 class="title">Phone number</h3>
-                  <div class="description">(+91) 87635 22530</div>
+                  <div class="description">
+                    <a href="tel:+9187635-22530">(+91) 87635 22530</a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -32,7 +34,11 @@
                 </div>
                 <div class="features-box-content">
                   <h3 class="title">Email Address</h3>
-                  <div class="description">mail2novus@gmail.com</div>
+                  <div class="description">
+                    <a href="mailto:mail2novus@gmail.com" target="_top"
+                      >mail2novus@gmail.com</a
+                    >
+                  </div>
                 </div>
               </div>
             </div>
@@ -201,9 +207,10 @@ export default {
   text-transform: capitalize;
   line-height: 1.625;
 }
-.about-services .features-box-content .description {
+.about-services .features-box-content .description a {
   color: #576566;
   font-size: 1rem;
+  text-decoration: none;
 }
 
 @media only screen and (min-width: 768px) {
